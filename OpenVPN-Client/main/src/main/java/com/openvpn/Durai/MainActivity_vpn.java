@@ -22,6 +22,8 @@ import android.content.Intent;
 import java.io.InputStreamReader;
 import java.io.ByteArrayInputStream;
 import android.widget.EditText;
+import android.content.Context;
+import android.content.IntentFilter;
 import android.os.AsyncTask;
 
 
@@ -53,6 +55,14 @@ public class MainActivity_vpn extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main_vpn);
+		Intent intent = new Intent(getBaseContext(), OpenVPNService.class);
+		intent.setAction(OpenVPNService.START_SERVICE);
+
+		bindService(intent, mConnection, Context.BIND_AUTO_CREATE);
+
+
+		registerReceiver(broadcastReceiver, new IntentFilter("com_openvpn_Durai_CONNECTION_CHANGE"));
+
 	}
 
 	@Override
@@ -209,5 +219,17 @@ public class MainActivity_vpn extends Activity {
 		startActivity(intent);
 	}
 
+	BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
+		@Override
+		public void onReceive(Context context, Intent intent) {
+			stopVPN();
+			startVPN();
+		}
+	};
 
+	@Override
+	protected void onDestroy() {
+		super.onDestroy();
+		unregisterReceiver(broadcastReceiver);
+	}
 }
