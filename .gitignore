@@ -3,7 +3,6 @@ OpenVPN-Client/local.properties
 OpenVPN-Client/.idea/workspace.xml
 OpenVPN-Client/.idea/libraries
 OpenVPN-Client/.DS_Store
-OpenVPN-Client/*.iml
 OpenVPN-Client/.gradle
 OpenVPN-Client/gradle/
 OpenVPN-Client/gradlew
