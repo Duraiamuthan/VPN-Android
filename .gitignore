@@ -1,0 +1,17 @@
+OpenVPN-Client/.idea/
+OpenVPN-Client/local.properties
+OpenVPN-Client/.idea/workspace.xml
+OpenVPN-Client/.idea/libraries
+OpenVPN-Client/.DS_Store
+OpenVPN-Client/*.iml
+OpenVPN-Client/.gradle
+OpenVPN-Client/gradle/
+OpenVPN-Client/gradlew
+OpenVPN-Client/gradlew.bat
+OpenVPN-Client/build.gradle
+OpenVPN-Client/build/
+OpenVPN-Client/main/build/
+OpenVPN-Client/main/libs/
+OpenVPN-Client/main/obj/
+OpenVPN-Client/main/ovpnlibs/
+OpenVPN-Client/main/sudo
