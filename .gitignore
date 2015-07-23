@@ -15,10 +15,3 @@ OpenVPN-Client/main/libs/
 OpenVPN-Client/main/obj/
 OpenVPN-Client/main/ovpnlibs/
 OpenVPN-Client/main/sudo
-OpenVPN-Client/main/jni/
-OpenVPN-Client/main/misc/
-OpenVPN-Client/main/lzo/
-OpenVPN-Client/main/snappy/
-OpenVPN-Client/main/openssl/
-OpenVPN-Client/main/ovpn3/
-OpenVPN-Client/main/main.iml
