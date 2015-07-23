@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/classes-a8b84d9e2681bf706dc737bc59dc5da9bd8c25dd.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/pre-dexed/normal/debug/internal_impl-21.0.3-caaf6033edb208fd839a1229d6e03d5943fda28b.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/classes-5fc189513b6e01ca7e9d46700c6a3007823a5a34.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/pre-dexed/normal/debug/classes-a0719773a74d9c064036b505fb7e88a85effeea8.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/classes-bb87be112b26a2690d7bd63634bfedc8ea847cbf.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/support-annotations-21.0.3-0bd3cebb52d72c673df87926d909ae05655919ad.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/classes-81d239f880f9ee39c9da805bcf699c677d6a00c5.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/internal_impl-21.0.3-29c27ef6151cb8645f4b4216e0514dca4165f7ee.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/duraiamuthan/Documents/Git/DIY-OpenVPN-Android/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/internal_impl-21.0.3-ef9acb069732f87755be35625b618490e0475675.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/pre-dexed/normal/debug/classes-b698057626f536449b341ed7887cc7f8107731ed.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/classes-a853e9c6693f116ed8a859b6cf68c499b438b181.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/duraiamuthan/Documents/Git/mobile-security-android/main/build/intermediates/pre-dexed/normal/debug/classes-29a9c85de3ab3467a463bacb86ff128f420437d3.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/classes-a65c3d1652bf62f8fe738ed41ba981a0881790ef.jar" />
+    </item>
+    <item
+        jar="/Users/duraiamuthan/.gradle/caches/modules-2/files-2.1/com.intellij/annotations/12.0/bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539/annotations-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="/Users/duraiamuthan/Documents/Git/OpenVPN-Client/main/build/intermediates/pre-dexed/normal/debug/annotations-12.0-0ffd21b992b4457f29be5e71224031f7eec4ba9c.jar" />
+    </item>
+
+</items>
