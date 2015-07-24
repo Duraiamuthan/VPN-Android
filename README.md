@@ -1,2 +1,1 @@
-# DIY-OpenVPN-Android
-Do It Yourself OpenVPN 
+Paste the content of .OVPN file to initiate connection.
