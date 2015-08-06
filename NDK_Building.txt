@@ -1,0 +1,4 @@
+1) Download Android NDK r10b Builder
+2) CD to main of the project
+3) Input the following command
+   sh main/build-native.sh absolute_path_to_downloaded_NDK_10bBuilder/ndk-build
