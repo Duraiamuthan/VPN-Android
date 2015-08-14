@@ -26,6 +26,8 @@ import android.content.Context;
 import android.content.IntentFilter;
 import android.os.AsyncTask;
 
+//More functionalities can be found here https://goo.gl/7EwDJC But to access that send me a mail.
+
 
 public class MainActivity_vpn extends Activity {
 
