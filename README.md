@@ -16,3 +16,6 @@ you don't need to enter username and password and all.
 
 
 There you go ! VPN connection will get established.
+
+Note:
+To clarify any doubts mail me.
