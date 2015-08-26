@@ -25,6 +25,13 @@ import android.widget.EditText;
 import android.content.Context;
 import android.content.IntentFilter;
 import android.os.AsyncTask;
+import org.spongycastle.util.encoders.*;
+import android.security.KeyChain;
+import java.security.KeyStore;
+import java.util.Enumeration;
+import java.io.IOException;
+import java.security.KeyStoreException;
+import java.security.NoSuchAlgorithmException;
 
 //More functionalities can be found here https://goo.gl/7EwDJC But to access that send me a mail.
 
@@ -221,6 +228,7 @@ public class MainActivity_vpn extends Activity {
 		startActivity(intent);
 	}
 
+
 	BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
 		@Override
 		public void onReceive(Context context, Intent intent) {
@@ -228,6 +236,9 @@ public class MainActivity_vpn extends Activity {
 			startVPN();
 		}
 	};
+
+
+
 
 	@Override
 	protected void onDestroy() {
