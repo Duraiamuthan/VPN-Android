@@ -33,7 +33,6 @@ import java.io.IOException;
 import java.security.KeyStoreException;
 import java.security.NoSuchAlgorithmException;
 
-//More functionalities can be found here https://goo.gl/7EwDJC But to access that send me a mail.
 
 
 public class MainActivity_vpn extends Activity {
